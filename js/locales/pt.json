@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "File Size Converter",
+    "description": "Convert bytes, KB, MB, GB, TB, and binary KiB/MiB/GiB units instantly with copyable results."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
